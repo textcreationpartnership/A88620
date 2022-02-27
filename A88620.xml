@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true gospel-faith witnessed by the prophets and apostles, and collected into thirty articles, presented to the world as the present faith and practice of the Church of Christ. By Tho: Lover. With A voice from the word of the Lord to those grand imposters called Quakers. By John Griffith a servant of Christ, and one that bears witness against those wandring stars.</title>
+            <author>Lover, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88620</idno>
+            <idno type="STC">Wing L3248</idno>
+            <idno type="STC">Wing G2009</idno>
+            <idno type="STC">Thomason E1492_1</idno>
+            <idno type="STC">Thomason E1492_2</idno>
+            <idno type="STC">ESTC R208516</idno>
+            <idno type="EEBO-CITATION">99867462</idno>
+            <idno type="PROQUEST">99867462</idno>
+            <idno type="VID">170029</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170029)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 191:E1492[1] or 191:E1492[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true gospel-faith witnessed by the prophets and apostles, and collected into thirty articles, presented to the world as the present faith and practice of the Church of Christ. By Tho: Lover. With A voice from the word of the Lord to those grand imposters called Quakers. By John Griffith a servant of Christ, and one that bears witness against those wandring stars.</title>
+                  <author>Lover, Thomas.</author>
+                  <author>Griffith, John, 1622?-1700. Voice from the word of the Lord to those grand imposters called Quakers.</author>
+               </titleStmt>
+               <extent>[8], 13, [1], [2], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith in Flying-Horse Court in Fleet-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A voice from the word of the Lord to those grand imposters called Quakers" (Wing G2009) has separate dated title page, with separate register and pagination.</note>
+                  <note>Annotation on Thomason copy E.1492[1]: "Oct: 26.".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170029:1" rendition="simple:additions"/>
+            <p>A VOICE From the Word of the Lord to thoſe grand Impoſtors called QUAKERS.</p>
+            <p>Wherein is diſcovered their fleſhly and filthy mindedneſs, together with the judgments of the Lord attending them.</p>
+            <p>Alſo a word of caution to all that are called to be Saints in this Nation, which may be of concernment to all people.</p>
+            <p>By JOHN GRIFFITH a Servant of <hi>Christ,</hi> and one that bears witneſs againſt thoſe wandring ſtars.</p>
+            <q>
+               <p>For this cauſe God ſhall ſend them ſtrong de<g ref="char:EOLhyphen"/>luſions to believe Lyes, that they all might be damned who believed not the truth, but had pleaſure in unrighteouſneſs.</p>
+               <bibl>
+                  <hi>2 Theſſ. 2. 11, 12.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Smith</hi> in Flying-Horſe Court in <hi>Fleet-ſtreet.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:170029:2"/>
+            <pb n="1" facs="tcp:170029:2"/>
+            <head>A Voice from the word of the Lord, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He moſt high God that made the Heavens and the Earth, the Seas, and the Fountains of wa<g ref="char:EOLhyphen"/>ter, <hi>Rev.</hi> 14.7. hath moved me and ſtirred me up to bear witneſs to the truth, and to witneſs a<g ref="char:EOLhyphen"/>gainſt the abominable fleſhly-mindedneſs, and yet ſpiritual pride of thoſe grand Impoſtors of theſe times, called <hi>Quakers,</hi> by whoſe ſorceries many are bewitched, and drawn from the ſim<g ref="char:EOLhyphen"/>plicity of the Goſpel, to another Goſpel; which is not another Goſpel, but the vanitie of their own mindes, and their own fleſhly and corrupt thoughts which they cry up as the Oracles of God.</p>
+            <p>To them I ſay, I am to direct my ſpeech from the Lord; therefore thus ſaith the Lord to thee O Quaker, thou art fleſhly minded, for thou lookeſt upon the inſtitutions of <hi>Christ</hi> with a
+<pb n="2" facs="tcp:170029:3"/>fleſhly carnal eye, witneſs <hi>Richard Hubberthorn</hi> in his Antipathy between fleſh and Spirit, where he ſaith that the bread and wine, which Chriſt commanded his Diſciples to eate, and to drink in remembrance of him, and to ſhew forth his death till he come, is carnal.</p>
+            <p>O fleſhly minded men, whom the god of this world hath blinded, becauſe you beleeve not; thus ſaith the Lord, <hi>Mal.</hi> 3.14. ye have ſaid it is in vain to ſerve God, and what profit is it that we have kept his Ordinances, and that we have walked mournfully before the Lord of Hoſts, <hi>Mal</hi> 4.1. Behold the day cometh that ſhall burn as an Oven, and all the proud; yea all that do wickedly ſhall be ſtubble, and the day that cometh ſhall burn them up, ſaith the Lord of Hoſtes, that it ſhall leave them, neither root nor branch.</p>
+            <p>Yea, All that are ſpiritually proud, as you are that give out your ſelves to be ſome great ones <hi>Act.</hi> 8.9. as <hi>Simon Magus</hi> did. <hi>Rev.</hi> 2.2. You ſay you are Apoſtles, and are not, but have been found liars, you proud Phariſes, Hyppo<g ref="char:EOLhyphen"/>crits, that ſay you are Juſt, holy, humble, &amp;c. The Lord ſaith the poor ſinful Publicans are more juſtified then ye.</p>
+            <p>You that boaſt of your light within, <hi>Joh.</hi> 9.44. Thus ſaith the Lord, becauſe you ſay you ſee, therefore your ſin remaineth. For, for judgment
+<pb n="3" facs="tcp:170029:3"/>is he, <hi>ver.</hi> 39, <hi>(Chriſt)</hi> come into the world, that they which ſee not, might ſee, and that they which ſee, might be made blind.</p>
+            <p>If <hi>Chriſt, Joh.</hi> 15.22. had not ſpoke to you in his Word, you had had no ſin, but now you have no Cloak for your ſin. Wo unto you Hypo<g ref="char:EOLhyphen"/>crites, for you do not only neglect the weightier matters of the Law (as one of them taught the 27. of <hi>September,</hi> 1654 in my hearing, and many others that will witneſs it) but the Law it ſelf, teaching men ſo to do; for you ſay that ſhe Scripture is no rule of faith, and converſation, <hi>Matt.</hi> 22.29, You, erre not knowing them, nor the power of God? your carnal mindes diſcerne not the power and ſpirituality of them.</p>
+            <p>Thus ſaith the Lord, <hi>Joh.</hi> 6.63. My words are ſpirit, and they are life; although they are the ſavor of death to you that periſh, 2. <hi>Tim.</hi> 3.15.16.17. The Scripture is able to make the man of God wiſe to ſalvation, and to furniſh him throughly to every good work, <hi>Rom.</hi> 15.4. And what was before written, was written for our learning, that we through patience, and com<g ref="char:EOLhyphen"/>fort of the Scriptures might have hope.</p>
+            <p>Therefore know this thou perverter of the right way of God, thou ſhalt be judged <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the word that <hi>Chriſt</hi> hath ſpoke, <hi>Hek.</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> How canſt thou eſcape, that neglecteſt <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> ſalvation, which at the firſt began to be <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:170029:4"/>by the Lord, and was confirmed to us by them that heard him.</p>
+            <p>Thus ſaith the Lord, <hi>Joh.</hi> 13.48. He that rejecteth me, 2nd receiveth not my words, hath one that Judgeth him; the word that I have ſpo<g ref="char:EOLhyphen"/>ken ſhall judg him at the laſt day, <hi>Joh.</hi> 12.48.</p>
+            <p>Quake and tremble at this; that word which you reject and diſpiſe, ſhall judg you at the laſt day; for thus ſaith the Lord, <hi>Mar.</hi> 8.38. Whoſoever is aſhamed of me, and of my words in this adulterous &amp; ſinfull generation, of him alſo ſhall the Son of man be aſhamed, when he comes in the glory of his Father, with his holy Angels; yea, 2. <hi>Theſ.</hi> 1.7.8. when he ſhall come in fla<g ref="char:EOLhyphen"/>ming Fire, he ſhall render vengeance to you who know not God, nor obey not the Goſpel.</p>
+            <p>The Lord hath ſpoken it, and it ſhall ſurely come to paſſe, <hi>Prov.</hi> 13.13. whoſo deſpiſeth his word ſhall be deſtroyed. O you blinde lea<g ref="char:EOLhyphen"/>ders of the blinde, both of you will fall into the pit, <hi>Rev.</hi> 19.20. There is a lake prepared for you, where the beaſt and the falſe prophet ſhall be, where you ſhall gnaſh your teeth for pain, and be tormented day and night for ever; for you are thoſe that the Lord hath before ſpoken of in his word (and therefore no marvel you would not have men read it) 2. <hi>Pet.</hi> 2.1. (throughout the Chapter) which ſhall bring in damnable he<g ref="char:EOLhyphen"/>riſes, even denying the Lord that bought you,
+<pb n="5" facs="tcp:170029:4"/>and bring upon your ſelves ſwift deſtruction, and many ſhall follow your pernitious waies, by whom the way of truth is evil ſpoken of; and though ye through covetouſneſs make merchan<g ref="char:EOLhyphen"/>diſe of ſome, yet know that your judgment lingreth not, and that your damnation ſlumbreth not.</p>
+            <p>For the Lord knoweth how to deliver the godly out of temptations, and to reſerve the un<g ref="char:EOLhyphen"/>juſt unto the day of judgment to be puniſhed; but chiefly you who are fleſhly, and diſpiſe go<g ref="char:EOLhyphen"/>vernment, being preſumptuous, and are not afraid to ſpeak evil of dignities; but you as natural brute beaſts, ſpeak evil of the things you under<g ref="char:EOLhyphen"/>ſtand not, and ſhall periſh in your own corrupti<g ref="char:EOLhyphen"/>on.</p>
+            <p>Wells you are without water, Clouds that are carried with a tempeſt, <hi>Prov.</hi> 25.14. To whom the miſt of darkneſs is reſerved for ever. for when ye ſpeak great ſwelling words of vanity, ye allure through the luſts of the fleſh, through much wantoneſs thoſe which were clean eſcaped; from them who live in error, while you promiſe them liberty, they themſelves are the ſervants of corruption; for of whom a man is overcome, of the ſame is he brought in bon<g ref="char:EOLhyphen"/>dage.</p>
+            <p>See thy portion, thy reward is deſtruction; you filthy dreamers, you raging waves of the
+<pb n="6" facs="tcp:170029:5"/>Sea, that foame out your own ſhame, that are wandring Stars, to whom the blackneſs of dark<g ref="char:EOLhyphen"/>neſs is reſerved for ever, <hi>Jud.</hi> 8.13. So be it, quake at this; the day of the fierce wrath of God is at hand.</p>
+            <p>You pretend to quake, it's true; you alſo pretend the example of the ſervants of the Lord, as <hi>Moſes</hi> at the thundring of the Lord upon the mount, O abominable hypocriſie and diſſimulation, what will that juſtifie your ſhake<g ref="char:EOLhyphen"/>ing; your hands like Idiots, and your raving like mad men: <hi>Moſes</hi> was a man in whom the dread and the fear of the Lord was, who kept his Word, but you diſpiſe it; who loved his law, but you reject it.</p>
+            <p>But what have you to do with <hi>Moſes, Jere<g ref="char:EOLhyphen"/>miah,</hi> or <hi>Habakuk.</hi> they all ſerved the Lord, but you ſerve your fleſhly luſts, there examples are without you, that is therefore no light for you.</p>
+            <p>If you are true to your corrupt principles, ſee<g ref="char:EOLhyphen"/>ing you ſay, it's the Light within you, that you muſt walk by, and not any Light without you; It's true, if you ſerved the Lord, and kept his word, it would make you tremble; as it doth thoſe that fear him, and keep his ſtatutes, and continue in the ſame all their daies; but you have rejected the Law of the Lord, and the word which the Lord hath ſpoken in his Prophets, by his Spirit.</p>
+            <pb n="7" facs="tcp:170029:5"/>
+            <p>The Lord ſhall break forth in indignation, and when he comes to ſhake terribly the earth, ſhall he give you your portion in the Lake which burns with fire and brimſtone.</p>
+         </div>
+         <div type="tract">
+            <pb n="8" facs="tcp:170029:6" rendition="simple:additions"/>
+            <head>A word of caution to all that are called to be Saints in this Nation, which may concern all people.</head>
+            <p>DEarly beloved in the Lord, we may rejoyce that we live to ſee not onely the myſterie of godlineſs (<hi>Rom.</hi> 16.26. which was kept ſecret ſince the world began, but now is made mani<g ref="char:EOLhyphen"/>feſt, and by the Scriptures of the Prophets ac<g ref="char:EOLhyphen"/>cording to the Commandment of the everlaſting God, made known to all Nations for the obedi<g ref="char:EOLhyphen"/>ence of faith) but alſo the working of the my<g ref="char:EOLhyphen"/>ſtery of iniquity in the fleſhly corrupt and ſenſu<g ref="char:EOLhyphen"/>al-minded men called Quakers.</p>
+            <p>I ſay, we may rejoyce, and in nothing be ter<g ref="char:EOLhyphen"/>rified or removed, becauſe the Scriptures did fore<g ref="char:EOLhyphen"/>tell of ſuch, ſo that the truth of thoſe ſayings of our precious Lord and his ſervants of old are ve<g ref="char:EOLhyphen"/>rified and fulfilled in theſe men, even as the Scri<g ref="char:EOLhyphen"/>pture was in <hi>Judas.</hi>
+            </p>
+            <p>Did not our Lord ſay, <hi>Matth.</hi> 24.5. that ma<g ref="char:EOLhyphen"/>ny ſhould come in his name, ſaying, I am <hi>Christ,</hi> and ſhall deceive many.</p>
+            <p>And again, doth he not ſay, <hi>Matth.</hi> 7.15.
+<pb n="9" facs="tcp:170029:6"/>that falſe Prophets ſhall come in Sheeps cloath<g ref="char:EOLhyphen"/>ing, but inwardly are ravening Wolves.</p>
+            <p>And again, that bleſſed Apoſtle of the Lord <hi>Paul</hi> ſaith, <hi>Acts</hi> 20.29, 30. that grievous Wolves ſhould enter in, not ſparing the flock, yea that from amongſt themſelves ſhould men ariſe, ſpeaking perverſe things to draw Diſciples after them.</p>
+            <p>Yea, and as <hi>Acts</hi> 13.8, 9, 10. <hi>Elymas</hi> the Sorcerer withſtood <hi>Paul,</hi> ſo there will be men full of all ſubtilty and miſchief, children of the devil, enemies of all righteouſneſs, that will not ceaſe to pervert the right ways of the Lord.</p>
+            <p>The Lord likewiſe hath foretold by the mouth of his ſervant <hi>Peter,</hi> 2 <hi>Pet.</hi> 2.1. that as there were falſe Prophets amongſt the people of old ſo there ſhall be falſe Teachers amongſt you, whoſe ways are pernicious. Yea and alſo <hi>Jude</hi> doth foretell of theſe, <hi>Iude</hi> 19. Curſed children who ſeparate themſelves (from the true Church) who are ſenſual, not having the ſpirit.</p>
+            <p>And indeed we are fallen into the laſt times, yea thoſe perillous times ſpoken of by <hi>Paul,</hi> 2 <hi>Tim.</hi> 3.1, 2, 3.4, 5, 6, 7, 8, 9. wherein as <hi>Christ</hi> ſaith, <hi>Matth.</hi> 24.12. Iniquitie ſhall abound, and the love of many wax cold: yea the time is at hand, 2 <hi>Theſſ.</hi> 2.7, 8, 9, 10. that that wicked one that ſon of perdition ſhall be revealed, who ſhall exalt himſelf above all that is called God,
+<pb n="10" facs="tcp:170029:7"/>ere that is worſhiped, <hi>Daniel,</hi> 11.30.36.37 38. Who ſhall ſpeak evil of the holy Cove<g ref="char:EOLhyphen"/>nant; yea and againſt the God of Gods, who ſhall come with Signes and lying wonders, and with al deceivabelneſs of unrighteouſneſs in them that periſh; becauſe they received not the truth in the love of it, that they might be ſaved; but the Lord ſhall deſtroy him with the brightneſs of his coming: Now my brethren ſeeing it's ſo, let us be filled with boldneſs, and let us contend (being filled with all might) againſt theſe un<g ref="char:EOLhyphen"/>godly ones that are now riſen. My dearly be<g ref="char:EOLhyphen"/>loved beware of men, beleeve not every ſpirit, nor be troubled or removed, at every wind of do<g ref="char:EOLhyphen"/>ctrine: Oh remember how the Lord hath fore<g ref="char:EOLhyphen"/>warned you; there ſhall ſuch ariſe ſaith he, but beleeve them not, take heed therefore to your ſelves, grievous wolves are riſen, Oh, <hi>Col.</hi> 2.18. Let no man beguile you of your reward, <hi>Rev.</hi> 3.11. Hold faſt that you have, that no man take your Crown, <hi>Phil.</hi> 3.2. Beware therefore of Dogs, beware of evil workers, beware of the conſition; yea, be ware leſt any man, <hi>Col.</hi> 2.8. ſpoile you through Philoſophy, and vain deceit after the Traditions of men, after the rudiments of the world; and not after Chriſt.</p>
+            <p>Oh, Conſider that he that holds out to the end, only ſhall be ſaved, <hi>Mat.</hi> 4.13. He that overcometh ſhall ear of the hidden Manna, and
+<pb n="11" facs="tcp:170029:7"/>ſhall ſit with Chriſt on his Throne, and ſhall rule the nations with a Rod of Iron, and ſhall have the bright and morning Star, and ſhall be cloathed in white Raiment, and ſhall not have his name blotted out of the Book of life, and ſhall be confeſſed by Chriſt, before his Father, and the holy Angels; it's he who ſhall have the white Stone, and in it the new Name, which none can read, ſave they that have it. <hi>Rev.</hi> 2.17.26.27.28. verſ. But if any draw back, God's ſoul ſhall have no pleaſure in him, <hi>Heb.</hi> 10.38. Oh remember <hi>Lots</hi> wife, and that it is a fearful thing to fall into the hands of the li<g ref="char:EOLhyphen"/>ving God: for God is a conſuming fire; beware of Satans baits; remember how he tempted <hi>Eve</hi> with higher enjoyments, ſhe (he ſaid) ſhould be as God; that temptation many a poor ſoul is caught with, at this day, <hi>viz.</hi> High en<g ref="char:EOLhyphen"/>joyments, great revelations, and ſuch like, and that without, Nay above, and beyond the Scripture; how many have been taken in this ſnare! Oh reſiſt the Devil therefore, and all his children; they talk of that which is beſides the Scripture; but ſuch light is deep, and thick dark<g ref="char:EOLhyphen"/>neſs, what hath not ſuch lights led men too? E<g ref="char:EOLhyphen"/>ven contempt of God, his Word, Ordinances, yea, and all righteouſneſs.</p>
+            <p>Now that you may be, not only warned; but alſo armed againſt theſe deceivers, think on theſe following conſiderations.
+<pb n="12" facs="tcp:170029:8"/>
+               <list>
+                  <item>1. Labour to ſee an excellency in <hi>Christ.</hi>
+                  </item>
+                  <item>2. In the Word of <hi>Christ,</hi> and</item>
+                  <item>3. In the Church and Ordinances of <hi>Chriſt.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. Labour to ſee an excellency in <hi>Christ,</hi> and that thou maiſt remember the never to be forgot<g ref="char:EOLhyphen"/>ten love of <hi>Christ</hi> to thee in laying down his life, and ſhedding his precious bloud for thy ſins, for thee a ſinner, a wretched perſon. O how un<g ref="char:EOLhyphen"/>ſpeakable is that love! How ſhould this oblige thy ſoul to ſerve him, to honour him? Who could have paid a price for thee, if <hi>Christ</hi> had not? Count not then the bloud of the Covenant an unholy thing, no, but a precious thing; the bloud of <hi>Christ</hi> is, that which will cleanſe thee from all ſin, if thou walk and continue in the true light.</p>
+            <p>Again, <hi>Christ</hi> is Gods treaſurie, <hi>Col.</hi> 1.20. In him are hid the treaſures of wiſdom and knowledg. It hath pleaſed the Father that in him ſhould all fulneſs dwell. Where then ſhall we go for wiſdom and knowledg but to <hi>Chriſt?</hi> Say then to him, Wnether ſhall we go? Thou haſt the words of eternal life. Yea, 1 <hi>Iohn</hi> 5.11. Life is in the Son, he is the life of Saints; if thou forſake <hi>Chriſt,</hi> thou doſt forſake thy life, <hi>Col.</hi> 3.4.</p>
+            <p n="2">2. Labour to ſee an excellency in the Word of <hi>Christ,</hi> I mean the Scriptures, make them the rule of thy faith and converſation, and not the
+<pb n="13" facs="tcp:170029:8"/>vain notions of men; for the Scriptures are ſo: they are able to make thee wiſe to ſalvation; then they muſt be thy rule in point of faith; yea and they will furniſh thee throughly unto every good work, then a rule in point of converſation, alſo undervalue not the Scriptures, for what is written is written for learning, that we through patience and comfort of the Scriptures we might have hope. <hi>Chriſt</hi> made uſe of the Scriptures, ſo did his Apoſtles, ſaying, Thus it is written; yea <hi>Christ</hi> commanded the <hi>Iews</hi> to ſeach the Scri<g ref="char:EOLhyphen"/>ptures, <hi>Iohn</hi> 5.39. they were they that teſtified of him. Yea and the <hi>Bereans</hi> ſearched the Scri<g ref="char:EOLhyphen"/>ptures daily, <hi>Acts</hi> 17.11. to ſee whether thoſe things <hi>Paul</hi> ſpake were ſo or no, and for that cauſe were counted more noble than they of <hi>Theſſalonica.</hi> Yea, the myſterie that was kept ſecret ſince the world began, was made manifeſt by the Scriptures of the Prophets, by the com<g ref="char:EOLhyphen"/>mandment of the everlaſting God made known to all Nations for the obedience of faith.</p>
+            <p>There is a bleſſedneſs to them that reade and hear the words of the Prophecie of the Scri<g ref="char:EOLhyphen"/>ptures, <hi>Rev.</hi> 1.3. Bleſſed is he that teadeth, and they that hear the words of this Prophecy, and keep thoſe things that are written therein, for the time is at hand. <hi>Col.</hi> 3.16. Let the word of God dwell in you richly, teaching one another, <hi>&amp;c.</hi> 1 <hi>Iohn</hi> 4.6. They that are of God hear
+<pb n="14" facs="tcp:170029:9"/>us, ſaith the Apoſtle <hi>Iohn.</hi> If you are of God, you will hear <hi>Iohn, Peter, Paul,</hi> and the reſt that were the ſervants of <hi>Chriſt,</hi> not the fleſhly con<g ref="char:EOLhyphen"/>ceits of theſe or any other men. My Sheep, ſaith <hi>Chriſt,</hi> hear my voice, and a ſtrangers they will not hear.</p>
+            <p>O prize the Word of <hi>Chriſt, Epheſ</hi> 6.17. its the Sword of the Spirit; and if you deliver your Sword to your Enemie, he may eaſily overcome you.</p>
+            <p>Conſider the ſweet frame of that gracious ſoul, the Lords ſervant <hi>David,</hi> See <hi>Pſalm</hi> 119. What a high eſtimation he ſet upon the Word of the Lord; ſaith he, O how I love thy Law! its my meditation all the day; mine eyes prevent the night-watches, becauſe I meditate on thy Word. Reade that 119. <hi>Pſalm,</hi> and make it thy meditation, there are many heavenly and ſoul-eſtabliſhing ſentences therein.</p>
+            <p n="3">3. Labour to ſee an excellencie in the Church and Ordinances of <hi>Christ.</hi>
+            </p>
+            <p>Conſider, <hi>Pſalm</hi> 87.2. that God loves the gates of <hi>Sion</hi> more than all the dwellings of <hi>Ia<g ref="char:EOLhyphen"/>cob;</hi> the Church of <hi>Christ</hi> is the habitation of God through the Spirit, <hi>Epheſ.</hi> 2.19, 20, 21, 22. God dwels there, <hi>Chriſt</hi> walks there. <hi>Pſalm</hi> 26.8. It's the place where Gods honour dwelleth: yea <hi>Pſalm</hi> 87.7. All Gods pleaſant ſprings are in thee O Sion: The Church of God is the
+<pb n="15" facs="tcp:170029:9"/>pillar and ground of truth, 1 <hi>Tim.</hi> 3.15. there<g ref="char:EOLhyphen"/>fore, <hi>Pſalm</hi> 84.4, 7. Bleſſed are they that dwell in thy houſe, O God; they will be ſtill praiſing thee; yea they go from ſtrength to ſtrength, eve<g ref="char:EOLhyphen"/>ry one in <hi>Sion</hi> appeareth before God.</p>
+            <p>O therefore with <hi>David, Pſalm</hi> 27.4. deſire this one thing of the Lord, and that ſeek after, that thou maiſt dwell in the houſe of the Lord all the days of thy life, to behold the beautie of the Lord, and to inquire in his Temple, <hi>Pſalm</hi> 84.10. for a day in his courts is better han a thouſand: I had rather, ſaith he, be a door<g ref="char:EOLhyphen"/>keeper in the houſe of my God than to dwell in the tents of wickedneſs.</p>
+            <p>Laſtly, as thou ſeeſt an excellencie in <hi>Chriſt,</hi> his Word and Church, ſo labour to ſee <hi>Chriſt</hi> in his Ordinances, as Baptiſm, breaking Bread, and Prayer, 2 <hi>Iohn</hi> 9. Continue in this Do<g ref="char:EOLhyphen"/>ctrine, for they that do ſo have both the Father and the Son: and the more perverſe ſpeakers do ariſe, ſaying, In vain have we kept his Ordi<g ref="char:EOLhyphen"/>nances, the more do you love them, and contend for them, meeting often together, the Lord-will take notice of it, there ſhall be a Book of Re<g ref="char:EOLhyphen"/>membrance written, yea, and you be his in the day the Lord ſhall make up his Jewels, and al<g ref="char:EOLhyphen"/>though they pretend never ſo much to holineſs, and the like; yet let not your hearts be drawn away after their deluſions, but <hi>Epheſ.</hi> 6.7. as
+<pb n="16" facs="tcp:170029:10"/>you have received <hi>Jeſus Christ</hi> the Lord, ſo walk in him, rooted and built up in him, and ſtabliſh<g ref="char:EOLhyphen"/>ed in the faith, abounding therein with thankſ<g ref="char:EOLhyphen"/>giving. 2 <hi>Cor.</hi> 11.13, 14, 15. For ſuch are falſe Apoſtles, deceitfull workers, transforming them<g ref="char:EOLhyphen"/>ſelves into the Apoſtles of <hi>Chriſt;</hi> and no mar<g ref="char:EOLhyphen"/>vel, for Satan himſelf is transformed into an An<g ref="char:EOLhyphen"/>gel of Light; therefore it is no great thing if his Miniſters be transformed as the Miniſters of righteouſnes, whoſe end ſhall be according to their works. Therefore beware of them; ſuch as bring not the Dectrine of <hi>Chriſt,</hi> bid them not to houſe, neither bid them God ſpeed, for he that biddeth them God ſpeed, is partaker of their evil deeds. The Apoſtle <hi>Paul</hi> ſaith, <hi>Gal.</hi> 1.8. But though we or an Angel from Heaven preach any other Goſpel unto you than that which we have preached unto you, let him be accurſed.</p>
+            <p n="1">1 <hi>John</hi> 4.1. Believe not then every ſpirit, 2 <hi>Tim.</hi> 3.14. but continue in the things you have heard; and 1 <hi>Cor.</hi> 15.58. be ye ſtedfaſt, un<g ref="char:EOLhyphen"/>moveable, always abounding in the work of the Lord, for as much as you know that your labour is not in vain in the Lord, 2 <hi>Iohn</hi> 8. Look to your ſelves that you loſe not the things that you have wrought but that you receive a full reward: Bleſſed are you if you endure temptation; Sa<g ref="char:EOLhyphen"/>tan will be ſtirring up inſtruments againſt you; but if you reſiſt him he will flie from you:
+<pb n="17" facs="tcp:170029:10"/>though he go about as a roaring Lion ſeeking whom he may devour; yet reſiſt him, ſtedfaſt in the faith; the Lord will ſtand by you if you ſo do; for he will keep you in the hour of temptati<g ref="char:EOLhyphen"/>on, if you keep the word of his patience. And again many are the troubles of the righteous, but the Lord will deliver them out of them all. O let us watch then againſt Satan and his inſtru<g ref="char:EOLhyphen"/>ments, and remember that God will render to every man according to his works, to them who by patient continuance in well-doing ſeek for glorie and honour, eternal life; but to them that are contentious, indignation and wrath. And again, we muſt all appear before the Judgment<g ref="char:EOLhyphen"/>ſeat of <hi>Christ,</hi> that every one of us may receive the things done in his bodie, whether they be good or bad: be not deceived, God is not mocked; for what a man ſoweth, that ſhall he reap; he that ſoweth to the Spirit, ſhall of the Spirit reap life everlaſting; but he that ſoweth to the fleſh, ſhall of the fleſh reap corruption: but in due time you ſhall reap, if you faint not; this is the Saints ſowing-time; the time of Har<g ref="char:EOLhyphen"/>veſt will come, nay, it is not far off, for he that ſhall come will come, and will not tarry: be patient therefore unto the coming of the Lord, for it draweth nigh. You have need of pati<g ref="char:EOLhyphen"/>ence, that when you have done the will of God you may receive the Promiſe, the Crown, the
+<pb n="18" facs="tcp:170029:11"/>Kingdom, even that Kingdom; that it's the good pleaſure of your heavenly Father to give to you his little flock. O therefore, if you will have right to the Tree of Life that ſtands in the midſt of the Paradiſe of God, and a part in the holy Citie, you muſt keep the Commandments of God, and the faith of <hi>Ieſus;</hi> for, bleſſed are they that keep his Commandments, that they may have right to the Tree of Life, and may en<g ref="char:EOLhyphen"/>ter in through the gates into the Citie. Sad would it be if the gates ſhould be ſhut againſt you, as they ſhall be againſt ſome at that day, even ſome that ſhall ſay in that day, Lord, Lord, open to us; Nay, though they ſhall ſay, We have pro<g ref="char:EOLhyphen"/>pheſied in thy Name, yea, and done many won<g ref="char:EOLhyphen"/>drous works in thy Name, yet ſhall he ſay unto them, Depart from me ye that work iniquitie, I know ye not; be not like the fooliſh Virgins, but have Oyl in your Lamps; let your loins be girt, and your Lights burning; keep your ſelves in the love of God, let <hi>Christ</hi> be precious to you. Behold the beautie of the Lord in his houſe: Say the Word of the Lord is precious in theſe days. Have reſpect with <hi>David</hi> to all the Command<g ref="char:EOLhyphen"/>ments of God, and walk in them, leſt you fall into the errour of the wicked, and ſo fall from your ſtedfaſtneſs. 2 <hi>Theſſ.</hi> 2.15, 16, 17. There<g ref="char:EOLhyphen"/>fore brethren ſtand faſt, and hold the traditions which ye have been taught, whether by word
+<pb n="19" facs="tcp:170029:11"/>or our Epiſtle. Now our Lord <hi>Ieſus Christ</hi> him<g ref="char:EOLhyphen"/>ſelf and God even our Father which hath loved us and hath given us everlaſting conſolation and good hope, through grace, comfort your hearts, and ſtabliſh you in every good word and work.</p>
+            <closer>
+               <signed>Your Remembrancer at the Throne of Grace, JOHN GRIFFITH.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
